@@ -1,0 +1,1 @@
+This repository will only cover data structrues and algorithm questions and topics
